@@ -4,11 +4,12 @@
     Platform：
         Linux
         Python 3.10.12
+        
     Packages：
-    torch : 2.0.1+cu117
-    numpy : 1.24.4
-    pandas : 2.0.3
-    scipy : 1.11.1
+        torch : 2.0.1+cu117
+        numpy : 1.24.4
+        pandas : 2.0.3
+        scipy : 1.11.1
 
 初步结果显示，预测精度没有达到论文的程度，按照论文的训练思路，较难训练（2023-8-10 22:24:27）。
 
